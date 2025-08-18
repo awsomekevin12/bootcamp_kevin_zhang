@@ -1,0 +1,1 @@
+This is a project for us to play with .gitignore, .env files, and learn about arrays and scaling. Its a very simple homework that builds on our knowledge of commiting and staging to git.

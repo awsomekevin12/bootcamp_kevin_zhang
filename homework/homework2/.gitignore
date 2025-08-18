@@ -1,0 +1,11 @@
+# Ignore local class materials
+class_materials/
+# Environment variables
+.env
+
+# Data files
+/data/
+
+# Python virtual environment
+env/
+__pycache__/
